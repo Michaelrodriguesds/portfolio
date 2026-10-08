@@ -59,3 +59,15 @@ document.addEventListener('DOMContentLoaded', function () {
         img.onerror = function () { this.src = 'img/placeholder-php.jpg'; };
     });
 });
+
+
+// ===== AVISO DE MANUTENÇÃO =====
+window.addEventListener('load', function () {
+    alert(
+        '⚠️ AVISO IMPORTANTE\n\n' +
+        'Este portfólio está em constante atualização e manutenção.\n\n' +
+        'Por esse motivo, alguns dos projetos apresentados podem estar temporariamente indisponíveis ou offline.\n\n' +
+        'Caso algum projeto não esteja acessível, tente novamente mais tarde.\n\n' +
+        'Obrigado pela compreensão!'
+    );
+});
