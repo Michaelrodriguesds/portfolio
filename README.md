@@ -2,7 +2,7 @@
 
 Portfólio pessoal de **Michael Rodrigues**, desenvolvedor Full Stack.
 
-🌐 **Portfólio online:** https://wondrous-axolotl-680acd.netlify.app/
+🌐 **Portfólio online:** https://michaelrodriguesds.github.io/portfolio/
 
 ## 👨‍💻 Sobre
 
@@ -74,7 +74,7 @@ O portfólio foi desenvolvido para funcionar em **desktop, tablet e smartphone**
 ## 📬 Contato
 
 - 💼 LinkedIn: disponível no portfólio
-- 💻 GitHub: https://github.com/Michaelrodriguesds
+- 💻 GitHub: https://michaelrodriguesds.github.io/portfolio/
 - 📱 WhatsApp: disponível no portfólio
 
 ## 👨‍💻 Autor
